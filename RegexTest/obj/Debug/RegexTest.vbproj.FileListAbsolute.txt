@@ -1,0 +1,13 @@
+C:\Users\Luciano.Lisboa\AppData\Local\Temporary Projects\RegexTest\bin\Debug\RegexTest.exe.config
+C:\Users\Luciano.Lisboa\Desktop\RegexTest\RegexTest\bin\Debug\RegexTest.exe.config
+C:\Users\Luciano.Lisboa\Desktop\RegexTest\RegexTest\obj\Debug\RegexTest.vbprojResolveAssemblyReference.cache
+C:\Users\Luciano.Lisboa\Desktop\RegexTest\RegexTest\obj\Debug\RegexTest.frmRegex.resources
+C:\Users\Luciano.Lisboa\Desktop\RegexTest\RegexTest\obj\Debug\RegexTest.Princ.resources
+C:\Users\Luciano.Lisboa\Desktop\RegexTest\RegexTest\obj\Debug\RegexTest.Resources.resources
+C:\Users\Luciano.Lisboa\Desktop\RegexTest\RegexTest\obj\Debug\RegexTest.vbproj.GenerateResource.Cache
+C:\Users\Luciano.Lisboa\Desktop\RegexTest\RegexTest\bin\Debug\RegexTest.exe
+C:\Users\Luciano.Lisboa\Desktop\RegexTest\RegexTest\bin\Debug\RegexTest.pdb
+C:\Users\Luciano.Lisboa\Desktop\RegexTest\RegexTest\bin\Debug\RegexTest.xml
+C:\Users\Luciano.Lisboa\Desktop\RegexTest\RegexTest\obj\Debug\RegexTest.exe
+C:\Users\Luciano.Lisboa\Desktop\RegexTest\RegexTest\obj\Debug\RegexTest.xml
+C:\Users\Luciano.Lisboa\Desktop\RegexTest\RegexTest\obj\Debug\RegexTest.pdb
